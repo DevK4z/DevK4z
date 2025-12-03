@@ -1,3 +1,4 @@
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 <div align="left">
 Hi 👋, I'm Tran Khanh
 
@@ -16,7 +17,6 @@ Hi 👋, I'm Tran Khanh
  👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
