@@ -109,15 +109,6 @@ Hi 👋, I'm Tran Khanh
 ###
 
 <div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevK4z&" alt="DevK4z" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=DevK4z&theme=dracula&hide_border=true" alt="DevK4z" /></p>
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-###
