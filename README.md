@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="300" src="https://i.pinimg.com/1200x/39/ad/7b/39ad7bc0b4849d0d4331ea0fa4bc4314.jpg" />
 <div align="left">
 Hi 👋, I'm Tran Khanh
 
