@@ -1,9 +1,7 @@
-<div align="center">
+<div align="left">
 Hi 👋, I'm Tran Khanh
 
 ### A full stack developer from Viet Nam
-
- 🔭 I'm currently working on **a MERN Stack project**
 
  🌱 I'm currently learning **MongoDB and TypeScript**
 
@@ -15,10 +13,12 @@ Hi 👋, I'm Tran Khanh
 
  📫 How to reach me **kaztran198@gmail.com**
 
- ⚡ Fun fact **I think I am ambivert**
-
  👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -113,10 +113,9 @@ Hi 👋, I'm Tran Khanh
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
