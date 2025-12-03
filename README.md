@@ -1,6 +1,22 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi 👋, I'm Tran Khanh
 
-###
+### A intern full stack developer from Viet Nam
+
+- 🔭 I'm currently working on **a MERN Stack project**
+
+- 🌱 I'm currently learning **MongoDB and TypeScript**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **learning system design**
+
+- 💬 Ask me about **React, Node.js and web development**
+
+- 📫 How to reach me **kaztran198@gmail.com**
+
+- ⚡ Fun fact **I think I am ambivert**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
