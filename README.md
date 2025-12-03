@@ -4,19 +4,19 @@ Hi 👋, I'm Tran Khanh
 
 ### A full stack developer from Viet Nam
 
- 🌱 I'm currently learning **MongoDB and TypeScript**
+🌱 I'm currently learning **MongoDB and TypeScript**
 
- 👯 I'm looking to collaborate on **open source projects**
+👯 I'm looking to collaborate on **open source projects**
 
- 🤝 I'm looking for help with **learning system design**
+🤝 I'm looking for help with **learning system design**
 
- 💬 Ask me about **React, Node.js and web development**
+💬 Ask me about **React, Node.js and web development**
 
- 📫 How to reach me **kaztran198@gmail.com**
+📫 How to reach me **kaztran198@gmail.com**
 
- 👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
+👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
+
 </div>
-
 
 ###
 
@@ -83,13 +83,16 @@ Hi 👋, I'm Tran Khanh
 <h3 align="center"> Connect with me </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  <a href="https://github.com/DevK4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevK4z" height="30" width="40" /></a>
+  <a href="https://dev.to/devk4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devk4z" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/DevK4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevK4z" height="30" width="40" /></a>
+  <a href="https://fb.com/DevKaz.1908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DevKaz.1908" height="30" width="40" /></a>
+  <a href="https://instagram.com/krzy_198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krzy_198" height="30" width="40" /></a>
+  <a href="https://codechef.com/users/devk4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="devk4z" height="30" width="40" /></a>
+  <a href="https://hackerrank.com/kaztran198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaztran198" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Kzaugust19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kzaugust19" height="30" width="40" /></a>
+  <a href="https://leetcode.com/kaztran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaztran" height="30" width="40" /></a>
+  <a href="https://discord.gg/KazTran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KazTran" height="30" width="40" /></a>
 </div>
 
 ###
