@@ -1,7 +1,7 @@
 <div align="center">
-# Hi 👋, I'm Tran Khanh
+Hi 👋, I'm Tran Khanh
 
-### A intern full stack developer from Viet Nam
+### A full stack developer from Viet Nam
 
  🔭 I'm currently working on **a MERN Stack project**
 
@@ -18,6 +18,13 @@
  ⚡ Fun fact **I think I am ambivert**
 
  👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevK4z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevK4z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
