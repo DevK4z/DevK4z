@@ -26,14 +26,19 @@ Hi 👋, I'm Tran Khanh
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-### Visitor Counter
+###
+
+<h3 align="center">🚀 Visitors Counter</h3>
+
 <div align="center">
   <img src="https://count.getloli.com/@:DevK4z?theme=rule34&padding=7&offset=3&scale=1&align=center&pixelated=1&darkmode=1"  />
 </div>
 
-### 🛠 Language and tools
+### 🛠
 
 <br clear="both">
+
+<h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
