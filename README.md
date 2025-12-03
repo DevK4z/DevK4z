@@ -12,8 +12,6 @@ Hi 👋, I'm Tran Khanh
 
 💬 Ask me about **React, Node.js and web development**
 
-📫 How to reach me **kaztran198@gmail.com**
-
 👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
 
 </div>
@@ -80,7 +78,7 @@ Hi 👋, I'm Tran Khanh
 
 <br clear="both">
 
-<h3 align="center"> Connect with me </h3>
+<h3 align="center">📫 Connect with me </h3>
 
 <div align="center">
   <a href="https://github.com/DevK4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevK4z" height="30" width="40" /></a>
