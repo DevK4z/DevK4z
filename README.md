@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋, I'm Tran Khanh
 
 ### A intern full stack developer from Viet Nam
@@ -17,6 +18,7 @@
 - ⚡ Fun fact **I think I am ambivert**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
