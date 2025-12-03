@@ -34,7 +34,7 @@ Hi 👋, I'm Tran Khanh
   <img src="https://count.getloli.com/@:DevK4z?theme=rule34&padding=7&offset=3&scale=1&align=center&pixelated=1&darkmode=1"  />
 </div>
 
-### 🛠
+###
 
 <br clear="both">
 
@@ -76,7 +76,7 @@ Hi 👋, I'm Tran Khanh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+### 
 
 <br clear="both">
 
@@ -109,7 +109,7 @@ Hi 👋, I'm Tran Khanh
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevK4z&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="DevK4z"/>
+  <img src="https://streak-stats.demolab.com?DevK4z=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
