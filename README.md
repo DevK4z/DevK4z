@@ -109,8 +109,7 @@ Hi 👋, I'm Tran Khanh
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DevK4z&theme=dracula)](https://git.io/streak-stats)
-  
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevK4z&" alt="DevK4z" /></p>
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
