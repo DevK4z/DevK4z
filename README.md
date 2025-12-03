@@ -29,6 +29,7 @@ Hi 👋, I'm Tran Khanh
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevK4z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://count.getloli.com/@:DevK4z?theme=rule34&padding=7&offset=3&scale=1&align=center&pixelated=1&darkmode=1"  />
 </div>
 
