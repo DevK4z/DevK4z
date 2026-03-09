@@ -4,13 +4,9 @@ Hi 👋, I'm Tran Khanh
 
 ### A full stack developer from Viet Nam
 
-🌱 I'm currently learning **MongoDB and TypeScript**
+🌱 I'm currently learning **NestJS and TypeScript**
 
 👯 I'm looking to collaborate on **open source projects**
-
-🤝 I'm looking for help with **learning system design**
-
-💬 Ask me about **React, Node.js and web development**
 
 👨‍💻 All of my projects are available at **[https://github.com/DevK4z](https://github.com/DevK4z)**
 
