@@ -4,7 +4,7 @@ Hi 👋, I'm Tran Khanh
 
 ### A full stack developer from Viet Nam
 
-🌱 I'm currently learning **NestJS and TypeScript**
+🌱 I'm currently learning **FE and BE**
 
 👯 I'm looking to collaborate on **open source projects**
 
